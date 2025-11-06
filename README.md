@@ -1,7 +1,7 @@
 # Pemrograman-web1
 Nama: Hafiz Abdurohman<br>
-Nim: 312410333
-Kelas: TI. 24 A4
+Nim: 312410333<br>
+Kelas: TI. 24 A4<br>
 
 Soal:
 
@@ -19,5 +19,12 @@ berupa file js terpisah yang berisi data dalam format Array JSON.<br>
 yang anda masukkan salah"<br>
 • Terdapat tombol “Lupa Password” dan “Daftar” yang dimunculkan dalam<br>
 • bentuk modal box/pop up<br>
+
+<img width="1988" height="2762" alt="image" src="https://github.com/user-attachments/assets/8a30ee3a-0b6c-472a-aba6-40ec773b2267" />
+
+Dan ini Hasilnya:<br>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9ec1efd-9209-4bf9-a397-37abfd2e45e2" />
+
 
 

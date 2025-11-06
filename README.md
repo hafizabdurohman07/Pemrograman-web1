@@ -12,12 +12,12 @@ yang dibutuhkan tidak diambil dari server/database, tetapi melalai variable dapa
 berupa file js terpisah yang berisi data dalam format Array JSON.<br>
 
 
-1. Halaman Login (login.html)
-• Input: email dan password.
-• Tombol “Login”
+1. Halaman Login (login.html)<br>
+• Input: email dan password.<br>
+• Tombol “Login”<br>
 • Jika salah atau tidak sesuai, munculkan pop-up/alert yang berisi bahwa "email/password
-yang anda masukkan salah"
-• Terdapat tombol “Lupa Password” dan “Daftar” yang dimunculkan dalam
-• bentuk modal box/pop up
+yang anda masukkan salah"<br>
+• Terdapat tombol “Lupa Password” dan “Daftar” yang dimunculkan dalam<br>
+• bentuk modal box/pop up<br>
 
 
